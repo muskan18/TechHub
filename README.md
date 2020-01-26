@@ -29,4 +29,6 @@
     - [Api to access technical jokes](https://official-joke-api.appspot.com/random_joke)
 
 
-## [Click Here !...](https://https://muskan18.github.io/TechHub/) to see the live demo of the website  
+# to see the live demo of the website
+
+[Click Here !...](https://muskan18.github.io/TechHub/)   
