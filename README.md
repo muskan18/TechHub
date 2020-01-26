@@ -1,9 +1,9 @@
-# Assessment-project
-## Tech-Hub
-- A site where the users can search profiles of various github users,their repositories,their followers and their following list.
-- The users can also view the current news about the techincal topics of the entire world.
-- The users can also search books on various subjects.
-- Also the user can have some fun by reading the jokes.
+# TechHub
+
+- A website where the users can search profiles of various github users,their repositories,their followers and their following list.
+- The users can also view the current affairs related to technology.
+- The users can also search books on various subjects technical as well as non-technical.
+- The users can have some fun by reading the jokes.
 
 
 ### Technologies-Used
@@ -12,7 +12,6 @@
 - Ajax
 - Jquery
 - Javascript
-- Media-Query
 
 ### Website-Url
 [Click ME!...](https://https://muskan18.github.io/TechHub/)
