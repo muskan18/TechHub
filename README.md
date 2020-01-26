@@ -13,9 +13,6 @@
 - Jquery
 - Javascript
 
-### Website-Url
-[Click ME!...](https://https://muskan18.github.io/TechHub/)
-
 ### Apis-Used
 - Github
     - [Api to access user data](https://api.github.com/users/manik410?client_id=6ce56aa9220d97a25db6&client_secret=3135ef1b21ce53e81e9b5f450df007873cae6669)
@@ -30,5 +27,7 @@
     - [Api to access technical news](https://newsapi.org/v2/top-headlines?country=in&category=technology&apiKey=c74df6a4a25e41038848a9330387de25)
 - Jokes-Api
     - [Api to access technical jokes](https://official-joke-api.appspot.com/random_joke)
-### Home-Page
-![Home-Page](https://https://muskan18.github.io/TechHub/blob/master/img/home.png)
+
+
+You can check out the website at : 
+[Click ME!...](https://https://muskan18.github.io/TechHub/)
