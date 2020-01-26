@@ -5,6 +5,10 @@
 - The users can also search books on various subjects technical as well as non-technical.
 - The users can have some fun by reading the jokes.
 
+### Home-Page
+![Home-Page](https://github.com/muskan18/TechHub/blob/master/img/home.png)
+
+
 
 ### Technologies-Used
 - HTML,CSS
