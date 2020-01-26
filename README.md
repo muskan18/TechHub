@@ -1,9 +1,9 @@
 # Assessment-project
 ## Tech-Hub
-- A site where the users can stalk profiles of various github users,their repositories,their followers and their following.
+- A site where the users can search profiles of various github users,their repositories,their followers and their following list.
 - The users can also view the current news about the techincal topics of the entire world.
 - The users can also search books on various subjects.
-- Also the user can have some fun by reading some of the technical news.
+- Also the user can have some fun by reading the jokes.
 
 
 ### Technologies-Used
@@ -15,7 +15,7 @@
 - Media-Query
 
 ### Website-Url
-[Click ME!...](https://manik410.github.io/Assessment-project/)
+[Click ME!...](https://https://muskan18.github.io/TechHub/)
 
 ### Apis-Used
 - Github
@@ -32,4 +32,4 @@
 - Jokes-Api
     - [Api to access technical jokes](https://official-joke-api.appspot.com/random_joke)
 ### Home-Page
-![Home-Page](https://github.com/manik410/Assessment-project/blob/master/img/home.png)
+![Home-Page](https://https://muskan18.github.io/TechHub/blob/master/img/home.png)
